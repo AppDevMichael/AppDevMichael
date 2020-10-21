@@ -3,7 +3,7 @@
 ![Profile Views V2](https://komarev.com/ghpvc/?username=AppDevMichael)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.3%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -21,9 +21,9 @@
 
 ```text
 🌞 Morning    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.32% 
-🌆 Daytime    213 commits    ██████████████░░░░░░░░░░░   56.5% 
+🌆 Daytime    214 commits    ██████████████░░░░░░░░░░░   56.76% 
 🌃 Evening    58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-🌙 Night      52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.79%
+🌙 Night      51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.53%
 
 ```
 📅 **I'm Most Productive on Tuesday** 
