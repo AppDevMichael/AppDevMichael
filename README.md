@@ -3,11 +3,11 @@
 ![Profile Views V2](https://komarev.com/ghpvc/?username=AppDevMichael)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.8%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.4%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 596 Contributions in the Year 2020
+> 🏆 597 Contributions in the Year 2020
  > 
 > 📦 20.1 MB Used in Github's Storage 
  > 
@@ -29,8 +29,8 @@
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       56 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.95% 
-Tuesday      75 commits     █████░░░░░░░░░░░░░░░░░░░░   21.37% 
+Monday       55 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.67% 
+Tuesday      76 commits     █████░░░░░░░░░░░░░░░░░░░░   21.65% 
 Wednesday    64 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.23% 
 Thursday     47 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
 Friday       56 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.95% 
