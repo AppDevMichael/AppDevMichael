@@ -78,7 +78,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/AppDevMichael/AppDevMichael/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/AppDevMichael/AppDevMichael/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
