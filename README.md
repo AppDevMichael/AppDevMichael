@@ -3,7 +3,7 @@
 ![Profile Views V2](https://komarev.com/ghpvc/?username=AppDevMichael)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.8%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -29,8 +29,8 @@
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday       53 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.56% 
-Tuesday      62 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.38% 
+Monday       52 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.25% 
+Tuesday      63 commits     █████░░░░░░░░░░░░░░░░░░░░   19.69% 
 Wednesday    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.81% 
 Thursday     43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.44% 
 Friday       54 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.88% 
