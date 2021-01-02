@@ -3,11 +3,11 @@
 ![Profile Views V2](https://komarev.com/ghpvc/?username=AppDevMichael)
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 3 Contributions in the Year 2021
+> 🏆 6 Contributions in the Year 2021
  > 
 > 📦 20.1 MB Used in Github's Storage 
  > 
@@ -15,7 +15,7 @@
  > 
 > 📜 13 Public Repositories 
  > 
-> 🔑 12 Private Repositories  
+> 🔑 13 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -59,14 +59,14 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-Java                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-C                        3 repos             █████░░░░░░░░░░░░░░░░░░░░   21.43% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   7.14%
+JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
+Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Java                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+C                        3 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
 
